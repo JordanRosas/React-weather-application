@@ -1,4 +1,4 @@
-# Built a weather application using React JS, Bootstrap 3, and regular CSS.
+# Built a weather app using React JS, Bootstrap 3, and CSS3.
 
 ![alt text](public/weatherPic.png)
 
