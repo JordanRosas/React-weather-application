@@ -2,6 +2,12 @@
 
 ![alt text](public/weatherPic.png)
 
-## User searches city and country and the weather details specific to the city will be displayed.
+## With the React Weather App you can 
 
-Enjoy!
+- Search your home city - or any city for that matter
+- The country in which the city is in
+- click search
+- Voila!
+- You will be displayed with an overview of the weather for the current day and time
+- The weather is broken down into these categories
+> 
