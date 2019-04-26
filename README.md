@@ -11,6 +11,6 @@
 - You will be displayed with an overview of the weather for the current day and time
 - The weather is broken down into these categories
 > Location
-> Temperature
-> Humidity
-> and a small description of the weather
+>> Temperature
+>> Humidity
+>> and a small description of the weather
