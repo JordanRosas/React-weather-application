@@ -1,4 +1,10 @@
-# Built a weather app using React JS, Bootstrap 3, and CSS3.
+# Built a weather app.
+
+### Technologies used
+- React
+- Bootstrap 4
+- CSS
+- External API (`openweatherAPI`)
 
 ![alt text](public/weatherPic.png)
 
@@ -12,5 +18,15 @@
 - The weather is broken down into these categories
 > Location
 >> Temperature
->> Humidity
->> and a small description of the weather
+>>> Humidity
+>>> and a small description of the weather
+
+## What did I learn?
+
+- How to use `await` and `async` in react
+- How tp use Hooks in react 
+- How to call an external API from react components
+- Got a better understanding of how data is flowing between the components
+- you can figure anything out if you break it down into smaller and smaller chunks
+
+
